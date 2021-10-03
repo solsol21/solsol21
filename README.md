@@ -1,0 +1,4 @@
+- Hi, I’m kimminsol.
+- I’m interested in enjoing games and drawing pictures.
+- I’m currently learning about C++.
+- I want to use this place as a space to organize and review C++.
